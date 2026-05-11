@@ -1,1 +1,20 @@
-{}
+{
+  "Cutiehappylife7gmai": {
+    "username": "Cutiehappylife7gmai",
+    "password": "24620237223tM",
+    "student_type": "علمي",
+    "telegram_user_id": "6616468713",
+    "telegram_username": "detective2023",
+    "telegram_first_name": "𝑀🧡",
+    "profile_photo_url": null,
+    "session_id": "94a28581-f399-46e3-9301-36c1339e4943",
+    "created_at": "2026-05-11T18:32:17.035630",
+    "verified": true,
+    "last_login": "2026-05-11T18:32:20.411991",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 53
+  }
+}
